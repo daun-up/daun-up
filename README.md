@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom"/>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=daun-up.&fontSize=70&color=#dcedc8)
+
+
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center">
