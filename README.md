@@ -1,4 +1,3 @@
-
 <!--
 **daun-up/daun-up** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=venom"/>
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center">
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
 </p>
 
-<h3 align="center">✒ Blog ✒</h3>
+<h3 align="center">Blog</h3>
 <p align="center">
 	https://daun-up.tistory.com/
 </p>
 
-<h3 align="center" style="bold">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=daun-up&theme=swift&show_icons=true"/></a>
 </p>
