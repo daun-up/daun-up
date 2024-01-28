@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=daun-up.&fontSize=70&color=#dcedc8](https://capsule-render.vercel.app/api?type=venom&height=300&color=dcedc8&text=daun-up&textBg=false&fontColor=7cb342&stroke=f1f8e9"/>
-
+</p>
 
 
 <h3 align="center">🛠 Technology Stack 🛠</h3>
