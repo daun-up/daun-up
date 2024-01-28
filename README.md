@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+🚀 감자 성장 중
+</p>
+
+
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</p>
+
+<h3 align="center">✒ Blog ✒</h3>
+<p align="center">
+	https://daun-up.tistory.com/
+</p>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api?username=daun-up&theme=swift&show_icons=true"/></a>
+</p>
+
+
+
+<h3 align="center">🔥🔥🔥</h3>
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaun-up&count_bg=%23A1C485&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
