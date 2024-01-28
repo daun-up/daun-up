@@ -29,9 +29,14 @@ Here are some ideas to get you started:
 	https://daun-up.tistory.com/
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center" style="bold">GitHub Stats</h3>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=daun-up&theme=swift&show_icons=true"/></a>
+</p>
+
+<h3 align="center">Most Used Languages</h3>
+<p align="center"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daun-up&layout=compact"/></a>
 </p>
 
 
