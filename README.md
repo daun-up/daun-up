@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Blog</h3>
 <p align="center">
-	https://daun-up.tistory.com/
+	[Blog]https://daun-up.tistory.com/
 </p>
 
 <h3 align="center">GitHub Stats</h3>
