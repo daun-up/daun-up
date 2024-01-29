@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-<h3 align="center">Blog</h3>
+<h3 align="center">💾 Blog 💾</h3>
 <p align="center">
 	https://daun-up.tistory.com/
 </p>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<h3 align="center">Most Used Languages</h3>
+<h3 align="center">😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daun-up&layout=compact"/></a>
 </p>
