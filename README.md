@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h2 align="center">🛠 Technology Stack 🛠</h2>
+<h3 align="center">🛠 Technology Stack 🛠</h3>
 <p align="center">
 
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 </p>
 
-<h2 align="center">💾 Blog 💾</h2>
+<h3 align="center">💾 Blog 💾</h3>
 <p align="center">
 	https://daun-up.tistory.com/
 </p>
@@ -39,14 +39,14 @@ Here are some ideas to get you started:
 
 
 <!--
-<h2 align="center">GitHub Stats</h2>
+<h3 align="center">GitHub Stats</h3>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api?username=daun-up&theme=swift&show_icons=true"/></a>
 </p>
 -->
 
 <div align='center' style={{width: 394px }}>
-<h2 align='center'>🥒 Experience & Social Activity 🥒</h2>
+<h3 align='center'>🥒 Experience & Social Activity 🥒</h3>
 
 | 소속 및 단체 | 활동 기간 | 내용 |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 | Connect | 2024.03 ~ 2025.01 | 국민대학교 소프트웨어융합대학 제8대 학생회 Connect 기획부 부장 |
 
 <div align='center' style={{width: 394px }}>
-<h2 align='center'>🍪 Projects 🍪</h2>
+<h3 align='center'>🍪 Projects 🍪</h3>
 
 | 기간 | 내용 |
 | --- | --- |
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center">😶‍🌫️ Most Used Languages 😶‍🌫️</h2>
+<h3 align="center">😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
 <p align="center"> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daun-up&layout=compact"/></a>
 </p>
