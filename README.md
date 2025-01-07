@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 | Callback | 2023.03 ~ 2024.01 | 국민대학교 소프트웨어융합대학 제7대 학생회 Callback 기획부 부원 |
 | The Compass | 2023.12 ~ 2024.02 | 더컴퍼스 프론트엔드 인턴 개발자 |
 | Connect | 2024.03 ~ 2025.01 | 국민대학교 소프트웨어융합대학 제8대 학생회 Connect 기획부 부장 |
+| CONCAT | 2024.12 ~ 2025.02 | 프론트엔드 인턴 개발자 |
 
 <div align='center' style={{width: 394px }}>
 <h3 align='center'>🍪 Projects 🍪</h3>
