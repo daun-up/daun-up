@@ -12,14 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=dcedc8&text=daun-up&textBg=false&fontColor=7cb342&stroke=f1f8e9"/>
 </p>
+-->
 
 
-<h3 align="center">🛠 Technology Stack 🛠</h3>
-<p align="center">
-
+<h3>🛠 Technology Stack 🛠</h3>
+<p>
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nuxt.js-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82"/>
@@ -31,8 +33,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
 </p>
 
-<h3 align="center">💾 Blog 💾</h3>
-<p align="center">
+<h3 >💾 Blog 💾</h3>
+<p >
 	https://daun-up.tistory.com/
 </p>
 
@@ -45,6 +47,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<!--
 <div align='center' style={{width: 394px }}>
 <h3 align='center'>🥒 Experience & Social Activity 🥒</h3>
 
@@ -71,12 +74,15 @@ Here are some ideas to get you started:
 | 2024.09 ~ 2024.12 | [2024 관광 데이터 활용 공모전] 원하는 곳에 머무르며 일하다, Work IN Korea Frontend 개발 |
 | 2023.09 ~ 2024.12 | [D&X:W 컨퍼런스] 오늘 모 입지? 오모입 코디 추천 서비스 Frontend 개발 |
 | 2024.12 ~ 2025.05 | [국민대학교] 쏟아지는 생각 속에서 나만의 흐름을 정리하는 서비스 버블팝 (Bubble Pop!) Frontend 개발 |
+-->
 
 
-
-<h3 align="center">😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
-<p align="center"> 
+<h3>😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
+<p> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daun-up&layout=compact"/></a>
 </p>
+
+![image](https://github.com/user-attachments/assets/51ea77e7-8310-4b59-821b-9d43d37fc779)
+
 
 
