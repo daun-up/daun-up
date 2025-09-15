@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!--
-<div align='center' style={{width: 394px }}>
-<h3 align='center'>🥒 Experience & Social Activity 🥒</h3>
+
+<div style={{width: 394px }}>
+<h3 >🥒 Experience & Social Activity 🥒</h3>
 
 | 소속 및 단체 | 활동 기간 | 내용 |
 | --- | --- | --- |
@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 | Connect | 2024.03 ~ 2025.01 | 국민대학교 소프트웨어융합대학 제8대 학생회 Connect 기획부 부장 |
 | CONCAT | 2024.12 ~ 2025.02 | 프론트엔드 인턴 개발자 |
 
-<div align='center' style={{width: 394px }}>
-<h3 align='center'>🍪 Projects 🍪</h3>
+<div style={{width: 394px }}>
+<h3>🍪 Projects 🍪</h3>
 
 | 기간 | 내용 |
 | --- | --- |
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 | 2024.09 ~ 2024.12 | [2024 관광 데이터 활용 공모전] 원하는 곳에 머무르며 일하다, Work IN Korea Frontend 개발 |
 | 2023.09 ~ 2024.12 | [D&X:W 컨퍼런스] 오늘 모 입지? 오모입 코디 추천 서비스 Frontend 개발 |
 | 2024.12 ~ 2025.05 | [국민대학교] 쏟아지는 생각 속에서 나만의 흐름을 정리하는 서비스 버블팝 (Bubble Pop!) Frontend 개발 |
--->
+
 
 
 <h3>😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
@@ -86,7 +86,9 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daun-up&layout=compact"/></a>
 </p>
 
+<!--
 ![image](https://github.com/user-attachments/assets/51ea77e7-8310-4b59-821b-9d43d37fc779)
+-->
 
 
 
