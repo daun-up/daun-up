@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 
 
 
-<h3>😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
+<!-- <h3>😶‍🌫️ Most Used Languages 😶‍🌫️</h3>
 <p> 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daun-up&layout=compact"/></a>
-</p>
+</p> -->
 
 <!--
 ![image](https://github.com/user-attachments/assets/51ea77e7-8310-4b59-821b-9d43d37fc779)
