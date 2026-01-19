@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 | WINK | 2022.09 ~ 2026.02 | 국민대학교 소프트웨어융합대학 소속 웹 학술 동아리(WINK) 부원 및 임원진|
 | The Compass | 2023.12 ~ 2024.02 | 프론트엔드 인턴 개발자 |
 | CONCAT | 2024.12 ~ 2025.02 | 프론트엔드 인턴 개발자 |
-| 삼성청년SW·AI아카데미(SSAFY) | 2026.01 ~  | 15기 교육생 |
+| 삼성청년SW·AI아카데미(SSAFY) | 2026.01 ~  | 15기 |
 
 <div style={{width: 394px }}>
 <h3>🍪 Projects 🍪</h3>
