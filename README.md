@@ -108,5 +108,7 @@ Here are some ideas to get you started:
 ![image](https://github.com/user-attachments/assets/51ea77e7-8310-4b59-821b-9d43d37fc779)
 -->
 
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/daun-up"/>
+</a>
 
